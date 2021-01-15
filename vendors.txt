@@ -1,2 +1,11 @@
 Jones Coffee Cups | Denver, Colorado | 303-555-0159
 West Summit Supplies | Salt Lake City, Utah | 801-123-1234
+
+*Interest and payment hasn't calculated, the late charge might not be accurate.c
+
+09,10,12,13,14,15,18,35?,39?,96
+
+1. Update sym100. Make change request.
+2. SQLBITEST[]. Make change request.
+3. ADSync in WinADSync repo.
+\\csvjobs1-17\Working\ADSync\Ultipro.csv
